@@ -182,7 +182,7 @@ MIT License — use and adapt with attribution.
 
 ## ✨ Attribution
 
-Author: Abdullah Daoud  
+Author: Awaimer Zaeem 
 Institution: FAST NUCES, BS Software Engineering
 
 🚀 Build something insightful with your data.
